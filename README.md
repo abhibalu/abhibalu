@@ -11,7 +11,7 @@ I'm a data professional with around 3 years of industry experience, currently ex
 I'm always up for collaborating on challenging **data engineering** or **LLM-based projects** that offer opportunities to learn, build, and grow through real-world problem-solving.
 
 ### 📫 How to reach me
-Feel free to reach out: **abhiji001@gmail.com**
+Feel free to reach out: **abhiji001@gmail.com** or LinkedIn [https://www.linkedin.com/in/abhijithsivadas/]
 
 <!---
 abhibalu/abhibalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
