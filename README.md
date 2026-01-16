@@ -1,19 +1,24 @@
 ## 👋 Hi there, I'm Abhijith 👨‍💻
 
-I'm a data professional with around 3 years of industry experience, currently expanding my skills into the world of **AI** and **LLMs**. I'm particularly interested in how large language models can be integrated into real-world data systems to create more intelligent workflows.
+I'm a Data Engineer & AI Builder with over 6 years of experience in building scalable data pipelines, now focused on bridging **Data Engineering** with **Agentic AI**.
+
+### 🚀 Featured Project: [AI Job Agent](https://github.com/abhibalu/AI_Job_seeking)
+I built an autonomous, full-stack AI agent to revolutionize the job application process. It's not just a demo—it's a functioning data product that simplifies the hunt.
+
+**Key Capabilities:**
+*   **🕷️ Intelligent Scraping:** Automated pipelines (Apify) to aggregate jobs from LinkedIn & Glassdoor.
+*   **🧠 RAG-Powered Tailoring:** Uses LLMs to analyze job descriptions and rewrite my resume (Summary, Experience, Skills) to perfectly match the role.
+*   **📊 Smart Evaluation:** Automatically scores jobs and detects "Gap Analysis" to identify missing skills.
+*   **⚙️ Modern Stack:** Built with **FastAPI**, **React**, **Supabase** (Vector DB), and **Docker**.
 
 ### 🌱 What I'm up to:
-- Working on **web scraping projects** involving **messy, real-world data**, and using them as a launchpad to deepen my skills in **data modeling**, **orchestration**, and **cloud-native pipelines**
-- Exploring **LLM-powered apps and workflows** to understand their practical value in the data landscape
-- Actively **sharing my learnings and notes** here through projects and repositories
+-   **Building AI Agents:** Moving beyond simple wrappers to create agents that can reason, plan, and execute complex workflows (like my Job Agent).
+-   **Cloud-Native Engineering:** Orchestrating messy, real-world data pipelines using Airflow, dbt, and Cloud Platforms (GCP/Azure/AWS).
+-   **Sharing Knowledge:** documenting my journey in building production-grade AI systems.
 
 ### 🤝 Collaboration
-I'm always up for collaborating on challenging **data engineering** or **LLM-based projects** that offer opportunities to learn, build, and grow through real-world problem-solving.
+I'm looking for challenging opportunities in **AI Engineering** or **Data Engineering**. If you're building systems that need robust data foundations and intelligent decision-making, let's talk.
 
 ### 📫 How to reach me
-Feel free to reach out: **abhiji001@gmail.com** or LinkedIn [https://www.linkedin.com/in/abhijithsivadas/]
-
-<!---
-abhibalu/abhibalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*   **Email:** abhiji001@gmail.com
+*   **LinkedIn:** [linkedin.com/in/abhijithsivadas](https://www.linkedin.com/in/abhijithsivadas/)
