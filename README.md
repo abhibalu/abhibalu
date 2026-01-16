@@ -7,7 +7,7 @@ I built an autonomous, full-stack AI agent to revolutionize the job application 
 
 **Key Capabilities:**
 *   **🕷️ Intelligent Scraping:** Automated pipelines (Apify) to aggregate jobs from LinkedIn & Glassdoor.
-*   **🧠 RAG-Powered Tailoring:** Uses LLMs to analyze job descriptions and rewrite my resume (Summary, Experience, Skills) to perfectly match the role.
+*   **🧠 Context-Aware AI Tailoring:** Uses LLMs to analyze unstructured job data and rewrite specific resume sections (Summary, Experience) using a "Golden Skills" reference list.
 *   **📊 Smart Evaluation:** Automatically scores jobs and detects "Gap Analysis" to identify missing skills.
 *   **⚙️ Modern Stack:** Built with **FastAPI**, **React**, **Supabase** (Vector DB), and **Docker**.
 
